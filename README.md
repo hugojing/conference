@@ -1,12 +1,34 @@
 # Conference
 
-## Tutorial
-url： http://ccoenraets.github.io/ionic-tutorial/
+## Local
 
 
-## Node API Server
-code：https://github.com/ccoenraets/ionic-tutorial
+### Tutorial
+http://ccoenraets.github.io/ionic-tutorial
 
 
-## How to run this client
-local： $ionic serve
+### Node API Server
+https://github.com/ccoenraets/ionic-tutorial
+
+
+### How to Run Client
+$ ionic serve
+
+
+
+## Online
+
+
+### My Server
+http://ionic-tutorial.herokuapp.com/sessions
+
+
+### Client Demo
+http://hugojing.github.io/conference/www
+
+### Apk
+http://fir.im/cfs
+
+or
+
+![qr](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAEGElEQVR4Xu2cW7LiMAxEYY2XZbJHpnKrZiYoibpbsgMUzW/8PJHlluxw/fn5eVwm/+73+78ebrfbU2/ss6VSrLtuSGlnXS9rcySWq0E/v/iRcNdtGXRYYaeAXi+/ToeKezha/qj/rI9YVxnPLAZPFj2rk8x/GjQyqeS5YkEGbdANAluFlLoOVvpEl6P4z2w2rJxDPjk+Z6UgO/+lfcTAoAVdnxmFQe/Q+QqLVjZKRQVVl7kyno+yaGViBh1eLfJP1aVq0Aa98SLI2F6uOtauBA02C27so3c05lGa0qBBjIQAZb7WFt0IQJXIMAOtRHzsy4xRnDJWBUls9/TsXQYPqYxRITmrghSwyCgMOgnBDRqE1ci6Xm7RnTfIhqedyJDdOJXNWZGFHT4fe2aYwTTonSsDyjK2RQs6+2tdx+PxmH6B5igS3DuZ6PjBv3WR30UycsQYYhtXg56BddumQZ/D+VLO3rF3NeI8ZqmFM0JwZX/ZuI713Tski47SlMgnsulN1L+iUNh9Qcl1GLSQiu0klQz6E0CPUB3K8lOyd1ULQi6o6sqyfRMxGKI6UCfsABEgdgNG7Rj06suABcbXWDR7+oFUB2uJHUmryDvWopE0Vcabug6DfkbZCd0NGrirzPpt0YGActaolC2DVjph3crepsZaiTKeLBLMfC3aX1iYyK08uQ5lYgat+W+DHvT5my16Z+3PkJsQdPXL2VG6lfWB0dd3or9RmT3Fv5dPwQ06/zY9zUcr1mXQImg2ezcrcaTIsmrorBhQVhb54WwudPbOoLffErJZyaWcQQvmbosGf5oisEyLDgOtyBXFXyoDHCW9lGXNvoiOpKQjQ2WT6Phzg05Iozdti77kF2jY5YdAzrgFGsfG9rHUY2OAjgHFVV3+tKKavRt1U8mgd5YBa22jLOjd2vnV0dmVMLuO///XF5NaiguaFrBUDxDii+24GVaynVVuSmRo0NvXZ9AnmbRBvxvoUeNRwnykz4+iyI7qYCNTxGOjo9l8NGqYfW7QLKlmua8FXT2cVXizn0QoyaiOsqmOR5lzLFs+nFU6rU6MzUko+jsGGtWrwcr8N5GhWpktb9AhBGfBqeUMupHrYPMgI5cqe8PoHeRd6qMV3WrQ2rouZ+8MeiBoVvOOWqrK0DvyTulnXbaz4svfgmcDUPRwddIGDT5bq4KN9QzaoHdt6XTXcYZbQauGXQ1orOwetokM0aZ2NAFUjw1YEKBRzw16FEnQjkEbdE5glOtAPlEJkk56Z4fdRCZvtRkaNDAPW/QWkGTR1eWnWCZ7XUwZixIqK4l/5ULPy7N3WYSHVgYL26B3SNmiWfMB8JbH7Nnf11h0g21a9eyTETQPJXRGbbHPX34Kvh4osmjF976b5jZo1iSb5Qy6CZCt/gdDmilwzbS1TQAAAABJRU5ErkJggg==)
