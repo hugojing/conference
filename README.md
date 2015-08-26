@@ -1,31 +1,32 @@
 # Conference
 
-## LOCAL
+## Guide
 
-
-### Tutorial
 http://ccoenraets.github.io/ionic-tutorial
 
 
 
+## 1.Local
+
 ### Node API Server
+
 https://github.com/ccoenraets/ionic-tutorial
 
 
 
 ### How to Run Client
+
 `$ ionic serve`
 
 
 
 
 
-## ONLINE
+## 2.Online
 
 
-### My Server
+### Server Demo
 http://ionic-tutorial.herokuapp.com/sessions
-
 
 
 
@@ -34,7 +35,7 @@ http://hugojing.github.io/conference/www
 
 
 
-### Apk
+### Apk Demo
 http://fir.im/cfs
 
 or
