@@ -7,14 +7,14 @@ http://ccoenraets.github.io/ionic-tutorial
 
 
 
-## 1.Local
+## 1. LOCAL
 
 ### Node API Server Code
 
 https://github.com/ccoenraets/ionic-tutorial
 
 
-### How to Run Client
+### How to Run Server
 
 `$ npm start`
 
@@ -32,7 +32,7 @@ It's Here.
 
 
 
-## 2.Online
+## 2. ONLINE
 
 
 ### Server Demo
