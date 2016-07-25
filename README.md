@@ -1,13 +1,16 @@
 # Conference
 
+Developed with ionic.
+
+Front-end, mobile web app, tutorial, example.
+
 
 ## Guide
 
 http://ccoenraets.github.io/ionic-tutorial
 
 
-
-## 1. LOCAL
+## How to serve
 
 ### Node API Server Code
 
@@ -32,7 +35,7 @@ It's Here.
 
 
 
-## 2. ONLINE
+## 2. Online Demo
 
 
 ### Server Demo
@@ -46,6 +49,7 @@ http://hugojing.github.io/conference/www
 
 
 ### Android Client Demo / Apk
+
 http://fir.im/cfs
 
 or
